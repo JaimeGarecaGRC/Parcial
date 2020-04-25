@@ -1,0 +1,4 @@
+D:\Parcial\Examen_Parcial\Examen_Parcial\obj\Debug\Examen_Parcial.vbprojAssemblyReference.cache
+D:\Parcial\Examen_Parcial\Examen_Parcial\obj\Debug\Examen_Parcial.Resources.resources
+D:\Parcial\Examen_Parcial\Examen_Parcial\obj\Debug\Examen_Parcial.vbproj.GenerateResource.cache
+D:\Parcial\Examen_Parcial\Examen_Parcial\obj\Debug\Examen_Parcial.vbproj.CoreCompileInputs.cache
